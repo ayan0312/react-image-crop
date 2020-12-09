@@ -7,8 +7,6 @@ An image cropping tool for React with no dependencies.
 [Demo using class](https://codesandbox.io/s/72py4jlll6) |
 [Demo using hook](https://codesandbox.io/s/react-image-crop-demo-with-react-hooks-y831o)
 
-![ReactCrop Demo](https://raw.githubusercontent.com/DominicTobias/react-image-crop/master/crop-demo.gif)
-
 ## Table of Contents
 
 1. [Features](#features)
@@ -340,8 +338,6 @@ If you're looking for a complete out of the box image editor which already handl
 <h3>How to filter, rotate and annotate</h3>
 
 This library is deliberately lightweight and minimal for you to build features on top of. If you wish to perform more advanced image editing out of the box then consider using [Doka](https://gumroad.com/a/611955827).
-
-![Doka Demo](https://raw.githubusercontent.com/DominicTobias/react-image-crop/master/doka-demo.gif)
 
 ### How can I center the crop?
 
